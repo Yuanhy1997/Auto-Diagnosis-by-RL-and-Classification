@@ -9,7 +9,7 @@ How to use our code:
    1. cd ./symcat_code
    2. CUDA_VISIBLE_DEVICES=0 python3 main.py -train -train 1 -dataset 200 (300/400/common)
  
-#Citation
+# Citation
 
 The citation for our paper is:
 ```bibtex
